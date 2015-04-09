@@ -62,6 +62,19 @@ end
 {% endhighlight %}
 
 
+{% highlight python %}
+class Person(object):
+    def __init__(self, value = None):
+        self.value = None
+
+    def setValue(self, value):
+        self.value = value
+
+    def getValue(self, value):
+        return self.value
+
+{% endhighlight %}
+
 ### Standard Code Block
 
     {% raw %}
