@@ -60,4 +60,4 @@ Generated piano sounds of keys C1 to C2 using an 8-bit controller. Won second pr
 
 <br>
 <br>
-<a markdown="0" href="#" class="btn">Link to pdf resume</a>
+<a markdown="0" href="https://drive.google.com/file/d/0B1yHJGBbEUnERk5BcVlqandqRHc/view?usp=sharing" target="_blank" class="btn">Link to pdf resume</a>
