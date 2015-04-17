@@ -9,8 +9,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 * Worked in the Innovation team responsible for driving innovation at McAfee, conceptualizing and
 implementing proof of concepts of potential products
-* Designed and wrote an iOS app to manage Little Red Plug (LRP), a home network security product. App syncs with LRP through an Amazon EC2 server
-* Conceived of an APNs and WebSocket based architecture to improve sync mechanism of LRP with iOS app
+* Designed and wrote an iOS app to manage Little Red Plug (LRP), a home network security product. iOS app could control LRP protection status, manage alerts, users and pair/unpair new LRP’s
+* Deployed a web service on Amazon EC2 instance to enable syncing of iOS app with LRP
+* Conceived of an APNs and WebSocket based architecture to implement syncing of LRP with iOS app
 * Wrote an asynchronous transparent DNS proxy in C on Linux. Intercepts DNS request packets/lookups, blocks or allows domain lookup based on policies set
 * Introduced multithreading in the DNS proxy, more than doubling the throughput
 * Created an async RESTful API wrapper over McAfee’s [GTI](http://www.mcafee.com/us/threat-center/technology/gti-reputation-technologies.aspx){:target="_blank"} URL rating server. Leveraged redis as message broker queue and celery worker threads to scale with network peeks
@@ -60,4 +61,4 @@ Generated piano sounds of keys C1 to C2 using an 8-bit controller. Won second pr
 
 <br>
 <br>
-<a markdown="0" href="https://drive.google.com/file/d/0B1yHJGBbEUnERk5BcVlqandqRHc/view?usp=sharing" target="_blank" class="btn">Link to pdf resume</a>
+<a markdown="0" href="https://drive.google.com/file/d/0B1yHJGBbEUnEMThyYURpc1o3eWM/view?usp=sharing" target="_blank" class="btn">Link to pdf resume</a>
