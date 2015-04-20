@@ -43,6 +43,13 @@ implementing proof of concepts of potential products
 * **Microcontroller based piano** *(Aug '09 - Sep '09)*  
 Generated piano sounds of keys C1 to C2 using an 8-bit controller. Won second prize in Embedded Design contest in Avishkar 2009, technical festival of NIT Allahabad
 
+### Hackathon
+
+###### Hike Messenger Hackathon
+* Built an iOS app and integrated it with Facebook iOS SDK. App could read and display the personal details, likes and interests of the user.
+* It could determine the user's transit status and speed along with their current location.
+* App had a feature to retrieve user's most recent status, query a backend service which returned user's mood (positive, negative, neutral) by applying text sentiment analysis on their status.
+
 ### Courses (MOOCs)
 
 ###### Coursera
